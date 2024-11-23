@@ -18,6 +18,4 @@ A project that implements Dijkstra's algorithm for finding the shortest paths in
 ### 📡 [GraphQL API with Jersey](https://github.com/elviriljazi/graphql-jersey)
 An implementation of a GraphQL API using Jersey, showcasing my skills in modern API design and backend development.
 
---
-
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me if you'd like to collaborate or discuss anything tech-related. Happy coding! 😊
