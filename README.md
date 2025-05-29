@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **Java Developer** with expertise
 
 ## 📫 Get in Touch
 
-- **Email**: [contact@elviriljazi.xyz](mailto:contact@elviriljazi.xyz)  
+- **Email**: [me@elviriljazi.xyz](mailto:me@elviriljazi.xyz)  
 - **Website**: [elviriljazi.xyz](https://elviriljazi.xyz)
 - **LinkedIn**: [elviriljazi](https://www.linkedin.com/in/elviriljazi)
 - **Upwork**: [elviriljazi](https://www.upwork.com/freelancers/~0115aa54861543f357)  
